@@ -12,3 +12,12 @@ In this Project,I have followed the following steps to build the portfolio :
 
 
 Data Source-https://absentdata.com/data-analysis/where-to-find-data/
+
+## Exploratory Data Analysis using SQL ##
+Following questions have been addresesd through the analysis using SQL:
+
+-Is our hotel revenue growing yearly?
+
+-Should we increase our parking lot size?
+
+-What trends can we see in the data?
