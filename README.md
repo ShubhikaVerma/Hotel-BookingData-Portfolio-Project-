@@ -21,3 +21,7 @@ Following questions have been addresesd through the analysis using SQL:
 -Should we increase our parking lot size?
 
 -What trends can we see in the data?
+
+
+![image](https://github.com/ShubhikaVerma/Hotel-BookingData-Portfolio-Project-/assets/146738903/44bcc4ed-a80f-4424-93d5-2d3d1643de93)
+
